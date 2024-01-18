@@ -1,0 +1,13 @@
+[
+    { "town": "Dublin", "name": "City Hotel", "region": "south" },
+    { "town": "Belfast", "name": "Northern Lights Hotel", "region": "north" },
+    { "town": "Galway", "name": "Seaside Resort", "region": "south" },
+    { "town": "Derry", "name": "Historic Inn", "region": "north" },
+    { "town": "Cork", "name": "Riverfront Lodge", "region": "south" },
+    { "town": "Limerick", "name": "Castle Hotel", "region": "south" },
+    { "town": "Armagh", "name": "Mountainside Retreat", "region": "north" },
+    { "town": "Waterford", "name": "Harbor View Hotel", "region": "south" },
+    { "town": "Enniskillen", "name": "Lakeside Lodge", "region": "north" },
+    { "town": "Killarney", "name": "Forest Resort", "region": "south" }
+  ]
+  
